@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">小徐</string>
+    <string name="title_activity_main2">测试2</string>
+    <string name="action_settings" translatable="false">设置</string>
+    <string name="section_format">您好...!</string>
+    <string name="confirm">确定</string>
+    <string name="close">關閉</string>
+    <string name="mytest1">我的测试TW</string>
+</resources>
